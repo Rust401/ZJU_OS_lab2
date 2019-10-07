@@ -3,8 +3,6 @@
 ```shell
 Project Name:   Add System Call
 Student Name:   Hu.Zhaodong
-Student ID  :   21714069
-Major       :   Environmental Engineering
 Email       :   zhaodonghu94@zju.edu.cn
 phone       :   15700080428
 Date        :   2018.9-2018.12
